@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://www.thiings.co/_next/image?url=https%3A%2F%2Flftz25oez4aqbxpq.public.blob.vercel-storage.com%2Fimage-OCOBC6DjtnQdnSysIzLVNNUcJ69u4a.png&w=1000&q=75" alt="Illustration of a person coding on a computer" width="300" />
-  <img src="https://www.thiings.co/_next/image?url=https%3A%2F%2Flftz25oez4aqbxpq.public.blob.vercel-storage.com%2Fimage-eMES7lZvD4yVd3wtbx6Wu6jnLmoxPI.png&w=320&q=75" alt="Illustration of a person coding on a computer" width="300" />
+  <img src="https://i.postimg.cc/8z5YzTpV/github.png" alt="Illustration of a person coding on a computer"  />
+   <!-- <img src="https://i.postimg.cc/F1XKsf4G/developer-2-img.png" alt="Developer Illustration" style="max-width: 100%; height: auto; border-radius: 10px;" width="600" /> -->
 </div>
 
 <h1 align="center">Hi 👋, I'm Muhammad Yaseen</h1>
