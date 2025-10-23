@@ -82,7 +82,6 @@
 
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=m-yaseen16&show_icons=true&theme=vision-friendly-dark&hide_border=false&count_private=false" width="42.5%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=m-yaseen16&theme=vision-friendly-dark&hide_border=false" width="45%" />
 </div> 
 
 ## 🏆 GitHub Trophies
@@ -95,7 +94,7 @@
 
 <div align="center">
 
-![snake gif](https://github.com/Hassan-Shirazi/Hassan-Shirazi/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/m-yaseen16/m-yaseen16/blob/output/github-snake-dark.svg)
 
 
 </div>
