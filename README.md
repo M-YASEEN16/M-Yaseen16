@@ -1,105 +1,217 @@
 <div align="center">
-  <img src="https://i.postimg.cc/8z5YzTpV/github.png" alt="Illustration of a person coding on a computer"  />
-   <!-- <img src="https://i.postimg.cc/F1XKsf4G/developer-2-img.png" alt="Developer Illustration" style="max-width: 100%; height: auto; border-radius: 10px;" width="600" /> -->
-</div>
 
-<h1 align="center">Hi 👋, I'm Muhammad Yaseen</h1>
+<br/>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code:wght@700&size=25&pause=1000&color=3B82F6&center=true&vCenter=true&width=550&lines=Full+Stack+Mern+Developer;Tech+Enthusiast;Full+Stack+Php+And+Laravel+Developer;" alt="Typing SVG" />
-  </a>
-</div>
+<!-- ═══════════ PREMIUM NAME — Kaushan Script ═══════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&weight=400&size=62&pause=99999&color=58A6FF&center=true&vCenter=true&width=860&height=90&lines=Hi,+I+am+Muhammad+Yaseen" alt="Muhammad Yaseen" />
 
+<!-- Elegant thin rule under name -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<!-- 🌟 Portfolio Section 🌟 -->
-<!-- <div align="center">
-  <a href="https://hassan-shirazi-portfolio.vercel.app/" target="_blank">
-    <img width = "500px" src="https://img.shields.io/badge/-🌐 Visit My Portfolio-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Link"/>
-  </a>
-</div> -->
+<!-- Animated role typewriter -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=8B949E&center=true&vCenter=true&width=700&height=36&lines=Full+Stack+MERN+Developer;REST+API+Architect;Scalable+Web+App+Builder;Backend+Systems+Engineer" alt="Role Typing" />
 
----
-## 👨‍💻 About Me
+<br/><br/>
+<!-- ═══════════ CTA BUTTON ═══════════ -->
+<a href="https://your-portfolio-link.com" target="_blank">
+  <img  src="https://img.shields.io/badge/◈──── Visit My Portfolio ────◈-0d1117?style=for-the-badge&labelColor=0d1117&color=58A6FF&size=50" height="50"/>
+</a>
 
-- 🎓 I’m a **First-Year Student** currently studying at **Aptech**.
-- 🚀 Passionate **Full Stack Web Developer** who loves creating dynamic and user-friendly applications.
-- 🧠 Expanding into **Fire base, React JS,Tailwind Css, Express JS, Node JS**.
-- 🌱 Always learning and exploring new challenges.
-
----
-
-## 🛠️ My Skills
-
-<p align="center">
-  <img width = "50px" src="https://icon.icepanel.io/Technology/svg/HTML5.svg" />
-  <img width = "50px" src="https://icon.icepanel.io/Technology/svg/CSS3.svg" />
-  <img width = "60px" src="https://icon.icepanel.io/Technology/svg/Bootstrap.svg"/>
-  <img width = "50px" src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" />
-  <img width ="58px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb6OxtkbXwly16JGSXXB_0BQeK9AWxIge5Ag&s" />
-  <img width = "50px" src="https://icon.icepanel.io/Technology/svg/Figma.svg" />
-  <img width ="60px" src="https://icon.icepanel.io/Technology/png-shadow-512/Composer.png" />
-  <img width = "75px" src="https://img.icons8.com/?size=96&id=UFXRpPFebwa2&format=png" />
-  <img width ="65px" src="https://icon.icepanel.io/Technology/svg/PHP.svg" />
-  <img width ="55px" src="https://icon.icepanel.io/Technology/svg/Laravel.svg" />
-  <img width ="50px" src= "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/xampp-icon.png" />
-  <img width = "55px" src="https://icon.icepanel.io/Technology/svg/Git.svg" />
-  <img width ="60px" src="https://img.icons8.com/?size=96&id=AZOZNnY73haj&format=png"/>
-  <!-- <img width ="65px" src="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png" /> -->
-  <img width ="55px" src= "https://icon.icepanel.io/Technology/svg/Canva.svg" />
-</p>
-
----
-
-## 📚 Currently Learning  
-
-- ⚛️ **React.js:** Building modern, component-based UIs.  
-- 🟦 **TypeScript:** Writing clean and type-safe JavaScript code.  
-- 🍃 **MongoDB:** Managing and storing data in NoSQL databases.  
-- 🚂 **Express.js:** Creating fast and lightweight backend APIs.  
-- 🌐 **Node.js:** Running JavaScript on the server for full-stack apps.  
-
----
-
-## 🌐 Let's Connect
-
-<p align="center">
-  <a href="github.com/M-Yaseen16"><img src="https://img.icons8.com/?size=100&id=12599&format=png" /></a>
-  <a href="https://www.linkedin.com/in/muhammad-yaseen-198b75379/"><img src="https://img.icons8.com/?size=96&id=13930&format=png" /></a>
-  <a href="https://www.facebook.com/share/17RuZ3TRFG/"><img src="https://img.icons8.com/?size=96&id=118497&format=png" /></a>
-  <a href="https://www.tiktok.com/@myaseen_16?_t=ZS-90UlA94pEQ6&_r=1"><img src="https://img.icons8.com/?size=100&id=118638&format=png" /></a>
-  <a href="mailto:yaseenbatch16@gmail.com"><img src="https://img.icons8.com/?size=96&id=P7UIlhbpWzZm&format=png" /></a>
-</p>
-
----
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-yaseen16&layout=compact&theme=vision-friendly-dark&langs_count=6" width="32%" />
-
-<img width="32%" src="https://github-contributor-stats.vercel.app/api?username=m-yaseen16&limit=5&theme=dark&bg_color=000000&text_color=FFD700&title_color=FFA500&border_color=FFFFFF&combine_all_yearly_contributions=true" />
-
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=m-yaseen16&show_icons=true&theme=vision-friendly-dark&hide_border=false&count_private=false" width="42.5%" />
-</div> 
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=m-yaseen16&theme=algolia&no-frame=false&no-bg=true&margin-w=15" />
-</p>
-
----
-
-<div align="center">
-
-![snake gif](https://github.com/m-yaseen16/m-yaseen16/blob/output/github-snake-dark.svg)
-
+<br/>
 
 </div>
 
+<!-- Animated Snake Line -->
 
 ---
 
-<h3 align="center">🌟 Thanks for visiting my profile! 🌟</h3>
+## ✦ About
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-yaseen16&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e&langs_count=5" width="240" />
+
+Full Stack MERN Developer engineering **scalable**, production-ready web applications with a relentless focus on clean architecture and quality code.
+
+Specializing in crafting robust **REST APIs**, designing efficient backend systems, and building seamless frontend interfaces with React and Next.js.
+
+I build software that performs at scale, solves real problems, and stands the test of time.
+
+<br clear="right"/>
+
+---
+
+## ✦ Tech Stack
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="130"><b>Frontend</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=html&theme=dark" height="36" title="HTML5"/>
+<img src="https://skillicons.dev/icons?i=css&theme=dark" height="36" title="CSS3"/>
+<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="36" title="Tailwind CSS"/>
+<img src="https://skillicons.dev/icons?i=react&theme=dark" height="36" title="React.js"/>
+<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" height="36" title="Next.js"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Backend</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="36" title="Node.js"/>
+<img src="https://skillicons.dev/icons?i=express&theme=dark" height="36" title="Express.js"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Database</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="36" title="MongoDB"/>
+<img src="https://skillicons.dev/icons?i=firebase&theme=dark" height="36" title="Firebase"/>
+<img src="https://skillicons.dev/icons?i=cloudinary&theme=dark" height="36" title="Cloudinary"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Tools</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=git&theme=dark" height="36" title="Git"/>
+<img src="https://skillicons.dev/icons?i=github&theme=dark" height="36" title="GitHub"/>
+<img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="36" title="Vercel"/>
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="36" title="VS Code"/>
+<img src="https://skillicons.dev/icons?i=postman&theme=dark" height="36" title="Postman"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## ✦ Focus Areas
+
+```javascript
+const m_yaseen = {
+  role         : "Full Stack MERN Developer",
+  applications : "Scalable systems built to handle real-world demand",
+  api_design   : "Clean, documented, versioned & secure REST APIs",
+  backend      : "Server-side architecture for performance & clarity",
+  philosophy   : "Ship clean code. Build to scale. Design to last."
+};
+```
+
+---
+
+## ✦ Featured Projects
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">◈ E-Commerce Platform</h3>
+
+---
+
+Full-featured online store with product listings, cart management, user authentication, and a secure checkout flow.
+
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+</p>
+
+<p align="center">
+<a href="#">
+<img src="https://img.shields.io/badge/── View Repository ──-0d1117?style=for-the-badge&labelColor=0d1117&color=238636"/>
+</a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+<h3 align="center">◈ Task Management App</h3>
+
+---
+
+Real-time collaborative task tracker with user roles, priority queues, and team progress dashboards.
+
+<p align="center">
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+</p>
+
+<p align="center">
+<a href="#">
+<img src="https://img.shields.io/badge/── View Repository ──-0d1117?style=for-the-badge&labelColor=0d1117&color=238636"/>
+</a>
+</p>
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## ✦ GitHub Stats
+
+<div align="center">
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=m-yaseen16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e&border_radius=10" width="48%" />
+&nbsp;
+<img src="https://streak-stats.demolab.com/?user=m-yaseen16&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=ff6b6b&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e&border_radius=10" width="46%" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=m-yaseen16&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&area_color=1f3a5f&radius=10" width="95%" />
+
+</div>
+
+---
+
+## ✦ Contact
+
+<div align="center">
+
+<br/>
+
+[![Email](https://img.shields.io/badge/Gmail-your--email%40example.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:your-email@example.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Yaseen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/your-profile)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-m--yaseen16-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/m-yaseen16)
+
+<br/><br/>
+
+</div>
+
+---
+
+<!-- ═══════════ PREMIUM FOOTER — Animated Snake ═══════════ -->
+
+<div align="center">
+
+<!-- Glowing contribution snake animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
+
+<br/>
+
+<!-- Animated visitor counter & profile views -->
+<img src="https://komarev.com/ghpvc/?username=m-yaseen16&label=Profile+Views&color=58A6FF&style=flat-square" />
+
+<br/><br/>
+
+<!-- Elegant closing line -->
+<img src="https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=22&pause=99999&color=8B949E&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+—+let's+build+something+great+together." alt="closing" />
+
+<br/>
+
+<!-- Animated GIF bottom divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+</div>
