@@ -32,8 +32,6 @@
 &nbsp;
 ![Status](https://img.shields.io/badge/💼_Open_to_Work-E09419?style=flat-square&labelColor=0d1117&color=E09419)
 &nbsp;
-![Views](https://komarev.com/ghpvc/?username=m-yaseen16&label=Profile+Views&color=E09419&style=flat-square)
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
@@ -250,8 +248,8 @@ const m_yaseen = {
 
 <br/>
 <!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=m-yaseen16&label=Profile+Views&color=E09419&style=flat-square&abbreviated=true" />
-
+<!-- <img src="https://komarev.com/ghpvc/?username=m-yaseen16&label=Profile+Views&color=E09419&style=flat-square&abbreviated=true" />
+ -->
 
 </div>
 
