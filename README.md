@@ -121,41 +121,6 @@ const m_yaseen = {
 };
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-## &nbsp;Education
-
-<div align="center">
-
-<table width="94%">
-  <tr>
-    <td width="52" align="center">🎓</td>
-    <td>
-      <b>Bachelor of Science — Computer Science</b><br/>
-      <sub><code>University Name</code> &nbsp;·&nbsp; 20XX – 20XX &nbsp;·&nbsp; Pakistan</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="https://progress-bar.xyz/0/?width=600&color=E09419&bg=161b22" height="1"/></td></tr>
-  <tr>
-    <td align="center">📘</td>
-    <td>
-      <b>Intermediate — Pre-Engineering / ICS</b><br/>
-      <sub><code>College Name</code> &nbsp;·&nbsp; 20XX – 20XX</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="https://progress-bar.xyz/0/?width=600&color=E09419&bg=161b22" height="1"/></td></tr>
-  <tr>
-    <td align="center">📗</td>
-    <td>
-      <b>Matriculation</b><br/>
-      <sub><code>School Name</code> &nbsp;·&nbsp; 20XX</sub>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-> **Note:** Replace all placeholder names and years with your real education details.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
